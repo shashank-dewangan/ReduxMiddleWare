@@ -1,2 +1,0 @@
-# ReduxMiddleWare
-Created with CodeSandbox
